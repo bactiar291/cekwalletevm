@@ -2,7 +2,7 @@
 ![Screenshot](https://raw.githubusercontent.com/bactiar291/cekwalletevm/main/ss.png)
 
 ## Deskripsi
-Cek Wallet EVM adalah skrip Python yang memungkinkan pengguna untuk memeriksa saldo dan token yang terdapat dalam wallet Ethereum, BSC, dan Polygon. Dengan menggunakan mnemonic atau alamat wallet yang sudah ada, skrip ini mengakses API publik untuk menarik informasi saldo dan token yang tersedia.
+Cek Wallet EVM adalah skrip Python yang memungkinkan pengguna untuk memeriksa saldo dan token yang terdapat dalam wallet Ethereum, BSC, dan Polygon. Dengan menggunakan alamat wallet yang sudah ada, skrip ini mengakses API publik untuk menarik informasi saldo dan token yang tersedia.
 
 ## Fitur
 - Mengambil saldo ETH, BNB, dan MATIC dari wallet.
