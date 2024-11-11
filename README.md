@@ -21,11 +21,3 @@ Sebelum menjalankan skrip ini, pastikan Anda memiliki:
    git clone https://github.com/bactiar291/cekwalletevm.git
    cd cekwalletevm
    ```
-2. **Instal dependensi**:
-   ```bash
-  pip install -r requirements.txt
-   ```
-4. **jalankan scriptnya dengan perintah**:
-   ```bash
-   python3 cek.py
-    ```
